@@ -1,0 +1,294 @@
+
+{
+    "nodes": [
+        {
+            "id": "catharine.bezerra",
+            "user_id": 351,
+            "type": "Senior",
+            "contractRoleName": "Senior",
+            "hardskill": [
+                "Android",
+                "java",
+                "IoT",
+                "web",
+                "iot",
+                "Mobile",
+                "Web",
+                "IOT"
+            ]
+        },
+        {
+            "id": "diego.azevedo",
+            "user_id": 105,
+            "type": "Project Manager",
+            "contractRoleName": "Project Manager",
+            "hardskill": [
+                "Android",
+                "mobile",
+                "IOS",
+                "Web",
+                "web",
+                "iot"
+            ]
+        },
+        {
+            "id": "carlos.vieira",
+            "user_id": 154,
+            "type": "Junior",
+            "contractRoleName": "Junior",
+            "hardskill": [
+                "Android",
+                "web",
+                "iot"
+            ]
+        },
+        {
+            "id": "wendley.franca",
+            "user_id": 250,
+            "type": "Junior",
+            "contractRoleName": "Junior",
+            "hardskill": [
+                "Android",
+                "web",
+                "iot"
+            ]
+        },
+        {
+            "id": "singrid.palmeira",
+            "user_id": 311,
+            "type": "Master",
+            "contractRoleName": "Master",
+            "hardskill": [
+                "Java",
+                "web",
+                "iot"
+            ]
+        },
+        {
+            "id": "gilmar.freitas",
+            "user_id": 453,
+            "type": "Junior",
+            "contractRoleName": "Junior",
+            "hardskill": [
+                "web",
+                "iot"
+            ]
+        },
+        {
+            "id": "felipe.silva",
+            "user_id": 205,
+            "type": "Junior",
+            "contractRoleName": "Junior",
+            "hardskill": [
+                "Android",
+                "web",
+                "Desktop"
+            ]
+        },
+        {
+            "id": "tales.satiro",
+            "user_id": 114,
+            "type": "Middle",
+            "contractRoleName": "Middle",
+            "hardskill": []
+        }
+    ],
+    "edges": [
+        {
+            "source": "catharine.bezerra",
+            "source_user_id": 351,
+            "target": "diego.azevedo",
+            "target_user_id": 105,
+            "weight": 153.8
+        },
+        {
+            "source": "catharine.bezerra",
+            "source_user_id": 351,
+            "target": "carlos.vieira",
+            "target_user_id": 154,
+            "weight": 153.8
+        },
+        {
+            "source": "catharine.bezerra",
+            "source_user_id": 351,
+            "target": "wendley.franca",
+            "target_user_id": 250,
+            "weight": 153.8
+        },
+        {
+            "source": "catharine.bezerra",
+            "source_user_id": 351,
+            "target": "singrid.palmeira",
+            "target_user_id": 311,
+            "weight": 153.8
+        },
+        {
+            "source": "catharine.bezerra",
+            "source_user_id": 351,
+            "target": "gilmar.freitas",
+            "target_user_id": 453,
+            "weight": 153.8
+        },
+        {
+            "source": "catharine.bezerra",
+            "source_user_id": 351,
+            "target": "felipe.silva",
+            "target_user_id": 205,
+            "weight": 153.8
+        },
+        {
+            "source": "catharine.bezerra",
+            "source_user_id": 351,
+            "target": "tales.satiro",
+            "target_user_id": 114,
+            "weight": 153.8
+        },
+        {
+            "source": "diego.azevedo",
+            "source_user_id": 105,
+            "target": "carlos.vieira",
+            "target_user_id": 154,
+            "weight": 153.8
+        },
+        {
+            "source": "diego.azevedo",
+            "source_user_id": 105,
+            "target": "wendley.franca",
+            "target_user_id": 250,
+            "weight": 153.8
+        },
+        {
+            "source": "diego.azevedo",
+            "source_user_id": 105,
+            "target": "singrid.palmeira",
+            "target_user_id": 311,
+            "weight": 153.8
+        },
+        {
+            "source": "diego.azevedo",
+            "source_user_id": 105,
+            "target": "gilmar.freitas",
+            "target_user_id": 453,
+            "weight": 153.8
+        },
+        {
+            "source": "diego.azevedo",
+            "source_user_id": 105,
+            "target": "felipe.silva",
+            "target_user_id": 205,
+            "weight": 153.8
+        },
+        {
+            "source": "diego.azevedo",
+            "source_user_id": 105,
+            "target": "tales.satiro",
+            "target_user_id": 114,
+            "weight": 153.8
+        },
+        {
+            "source": "carlos.vieira",
+            "source_user_id": 154,
+            "target": "wendley.franca",
+            "target_user_id": 250,
+            "weight": 153.8
+        },
+        {
+            "source": "carlos.vieira",
+            "source_user_id": 154,
+            "target": "singrid.palmeira",
+            "target_user_id": 311,
+            "weight": 153.8
+        },
+        {
+            "source": "carlos.vieira",
+            "source_user_id": 154,
+            "target": "gilmar.freitas",
+            "target_user_id": 453,
+            "weight": 153.8
+        },
+        {
+            "source": "carlos.vieira",
+            "source_user_id": 154,
+            "target": "felipe.silva",
+            "target_user_id": 205,
+            "weight": 153.8
+        },
+        {
+            "source": "carlos.vieira",
+            "source_user_id": 154,
+            "target": "tales.satiro",
+            "target_user_id": 114,
+            "weight": 153.8
+        },
+        {
+            "source": "wendley.franca",
+            "source_user_id": 250,
+            "target": "singrid.palmeira",
+            "target_user_id": 311,
+            "weight": 153.8
+        },
+        {
+            "source": "wendley.franca",
+            "source_user_id": 250,
+            "target": "gilmar.freitas",
+            "target_user_id": 453,
+            "weight": 153.8
+        },
+        {
+            "source": "wendley.franca",
+            "source_user_id": 250,
+            "target": "felipe.silva",
+            "target_user_id": 205,
+            "weight": 153.8
+        },
+        {
+            "source": "wendley.franca",
+            "source_user_id": 250,
+            "target": "tales.satiro",
+            "target_user_id": 114,
+            "weight": 153.8
+        },
+        {
+            "source": "singrid.palmeira",
+            "source_user_id": 311,
+            "target": "gilmar.freitas",
+            "target_user_id": 453,
+            "weight": 153.8
+        },
+        {
+            "source": "singrid.palmeira",
+            "source_user_id": 311,
+            "target": "felipe.silva",
+            "target_user_id": 205,
+            "weight": 153.8
+        },
+        {
+            "source": "singrid.palmeira",
+            "source_user_id": 311,
+            "target": "tales.satiro",
+            "target_user_id": 114,
+            "weight": 153.8
+        },
+        {
+            "source": "gilmar.freitas",
+            "source_user_id": 453,
+            "target": "felipe.silva",
+            "target_user_id": 205,
+            "weight": 153.8
+        },
+        {
+            "source": "gilmar.freitas",
+            "source_user_id": 453,
+            "target": "tales.satiro",
+            "target_user_id": 114,
+            "weight": 153.8
+        },
+        {
+            "source": "felipe.silva",
+            "source_user_id": 205,
+            "target": "tales.satiro",
+            "target_user_id": 114,
+            "weight": 153.8
+        }
+    ]
+}
