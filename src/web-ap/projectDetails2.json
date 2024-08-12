@@ -1,0 +1,621 @@
+[
+    {
+        "projectId": 129,
+        "projectManagers": [
+            "diego.azevedo"
+        ],
+        "teamMembers": [
+            "catharine.bezerra",
+            "DIEGO.AZEVEDO",
+            "singrid.palmeira",
+            "gilmar.freitas",
+            "felipe.silva"
+        ],
+        "NPS": 3,
+        "SLF": 1.9
+    },
+    {
+        "projectId": 138,
+        "projectManagers": [
+            "diego.azevedo"
+        ],
+        "teamMembers": [
+            "catharine.bezerra",
+            "DIEGO.AZEVEDO",
+            "carlos.vieira",
+            "wendley.franca",
+            "singrid.palmeira",
+            "gilmar.freitas"
+        ],
+        "NPS": 73,
+        "SLF": 2.6
+    },
+    {
+        "projectId": 144,
+        "projectManagers": [
+            "filipe.ramos",
+            "ermeson.nobrega",
+            "francisco.favaro",
+            "daniel.abella"
+        ],
+        "teamMembers": [
+            "vinicius.silva",
+            "FILIPE.RAMOS",
+            "ERMESON.NOBREGA",
+            "FRANCISCO.FAVARO",
+            "UELIO.camara",
+            "DANIEL.ABELLA",
+            "paulo.souto",
+            "magno.dantas"
+        ],
+        "NPS": 49,
+        "SLF": 2.8
+    },
+    {
+        "projectId": 145,
+        "projectManagers": [
+            "filipe.ramos",
+            "ermeson.nobrega",
+            "francisco.favaro",
+            "daniel.abella"
+        ],
+        "teamMembers": [
+            "FILIPE.RAMOS",
+            "ERMESON.NOBREGA",
+            "FRANCISCO.FAVARO",
+            "UELIO.camara",
+            "vinicius.silva",
+            "DANIEL.ABELLA",
+            "paulo.souto",
+            "magno.dantas"
+        ],
+        "NPS": 44,
+        "SLF": 2.6
+    },
+    {
+        "projectId": 148,
+        "projectManagers": [
+            "daniel.abella",
+            "filipe.ramos",
+            "ermeson.nobrega",
+            "francisco.favaro"
+        ],
+        "teamMembers": [
+            "paulo.menezes",
+            "DANIEL.ABELLA",
+            "FILIPE.RAMOS",
+            "UELIO.camara",
+            "ERMESON.NOBREGA",
+            "FRANCISCO.FAVARO",
+            "marcos.costa",
+            "paulo.souto",
+            "gustavo.pires",
+            "arthur.araujo",
+            "bruno.dutra"
+        ],
+        "NPS": 41,
+        "SLF": 4.4
+    },
+    {
+        "projectId": 149,
+        "projectManagers": [
+            "diogo.miranda",
+            "leandro.silva",
+            "daniel.abella",
+            "filipe.ramos",
+            "ermeson.nobrega",
+            "francisco.favaro"
+        ],
+        "teamMembers": [
+            "DIOGO.MIRANDA",
+            "LEANDRO.SILVA",
+            "jose.antonio",
+            "DANIEL.ABELLA",
+            "FILIPE.RAMOS",
+            "UELIO.camara",
+            "ERMESON.NOBREGA",
+            "FRANCISCO.FAVARO",
+            "magno.dantas",
+            "marcos.costa",
+            "pablo.santos",
+            "paulo.souto",
+            "bruno.dutra"
+        ],
+        "NPS": 75,
+        "SLF": 3
+    },
+    {
+        "projectId": 171,
+        "projectManagers": [
+            "daniel.abella",
+            "artur.farias",
+            "filipe.ramos",
+            "francisco.favaro",
+            "ermeson.nobrega"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "ARTUR.FARIAS",
+            "gustavo.pires",
+            "luciano.reul",
+            "felipe.belo",
+            "FILIPE.RAMOS",
+            "FRANCISCO.FAVARO",
+            "jeremias.araujo",
+            "UELIO.camara",
+            "ERMESON.NOBREGA",
+            "arthur.araujo",
+            "fabricio.melo",
+            "paulo.souto",
+            "bruno.dutra"
+        ],
+        "NPS": 84,
+        "SLF": 4.1
+    },
+    {
+        "projectId": 175,
+        "projectManagers": [
+            "diego.alan",
+            "Marsell.Senko"
+        ],
+        "teamMembers": [
+            "luiz.escorel",
+            "genilson.martins",
+            "isaac.santos",
+            "matheus.silva",
+            "joao.albuquerque",
+            "DIEGO.ALAN",
+            "tiago.nobrega",
+            "bruno.santos",
+            "MARSELL.SENKO"
+        ],
+        "NPS": 41,
+        "SLF": 4.3
+    },
+    {
+        "projectId": 177,
+        "projectManagers": [
+            "daniel.abella",
+            "filipe.ramos",
+            "ermeson.nobrega",
+            "francisco.favaro"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "pablo.santos",
+            "FILIPE.RAMOS",
+            "ERMESON.NOBREGA",
+            "paulo.souto",
+            "FRANCISCO.FAVARO",
+            "UELIO.camara",
+            "jose.antonio",
+            "gustavo.pires",
+            "marcio.pereira",
+            "magno.dantas",
+            "vinicius.silva",
+            "bruno.dutra",
+            "arthur.araujo",
+            "marcos.costa",
+            "jeremias.araujo"
+        ],
+        "NPS": 61,
+        "SLF": 1.1
+    },
+    {
+        "projectId": 179,
+        "projectManagers": [
+            "daniel.abella",
+            "diego.ferreira",
+            "filipe.ramos",
+            "francisco.favaro",
+            "ermeson.nobrega"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "wagner.leal",
+            "jose.bezerra",
+            "franklin.bastos",
+            "fabricio.melo",
+            "DIEGO.FERREIRA",
+            "italo.lins",
+            "FILIPE.RAMOS",
+            "UELIO.camara",
+            "FRANCISCO.FAVARO",
+            "ERMESON.NOBREGA",
+            "paulo.souto",
+            "bruno.dutra"
+        ],
+        "NPS": 62,
+        "SLF": 1.5
+    },
+    {
+        "projectId": 185,
+        "projectManagers": [
+            "sergio.pinto",
+            "antonio.dantas",
+            "Marsell.Senko"
+        ],
+        "teamMembers": [
+            "SERGIO.PINTO",
+            "gessica.silva",
+            "ANTONIO.DANTAS",
+            "emerson.santos",
+            "ivan.almeida",
+            "matheus.nicolas",
+            "ramon.mesquita",
+            "gilmar.batista",
+            "MARSELL.SENKO",
+            "mendelssohn.sa"
+        ],
+        "NPS": 80,
+        "SLF": 2.7
+    },
+    {
+        "projectId": 192,
+        "projectManagers": [
+            "diego.azevedo"
+        ],
+        "teamMembers": [
+            "felipe.silva",
+            "catharine.bezerra",
+            "DIEGO.AZEVEDO",
+            "wendley.franca",
+            "singrid.palmeira",
+            "tales.satiro"
+        ],
+        "NPS": 30,
+        "SLF": 0.7
+    },
+    {
+        "projectId": 195,
+        "projectManagers": [
+            "sergio.pinto",
+            "walter.guerra"
+        ],
+        "teamMembers": [
+            "SERGIO.PINTO",
+            "paulo.menezes",
+            "fabiano.miranda",
+            "fernando.vita",
+            "Anderson.pereira",
+            "vladwoguer.bezerra",
+            "WALTER.GUERRA",
+            "marcos.leite"
+        ],
+        "NPS": 2,
+        "SLF": 3.8
+    },
+    {
+        "projectId": 196,
+        "projectManagers": [
+            "sergio.pinto",
+            "leandro.silva",
+            "walter.guerra"
+        ],
+        "teamMembers": [
+            "SERGIO.PINTO",
+            "paulo.menezes",
+            "amanda.fabricio",
+            "gabriel.lemos",
+            "LEANDRO.SILVA",
+            "jose.nascimento",
+            "WALTER.GUERRA",
+            "felipe.nascimento",
+            "fagner.martins",
+            "bruno.santos",
+            "pedro.medeiros"
+        ],
+        "NPS": 53,
+        "SLF": 1.6
+    },
+    {
+        "projectId": 201,
+        "projectManagers": [
+            "diego.ferreira"
+        ],
+        "teamMembers": [
+            "wagner.leal",
+            "DIEGO.FERREIRA",
+            "jose.bezerra",
+            "franklin.bastos",
+            "italo.lins"
+        ],
+        "NPS": 46,
+        "SLF": 2.4
+    },
+    {
+        "projectId": 205,
+        "projectManagers": [
+            "Marsell.Senko",
+            "diego.alan"
+        ],
+        "teamMembers": [
+            "MARSELL.SENKO",
+            "luiz.escorel",
+            "isaac.santos",
+            "genilson.martins",
+            "matheus.silva",
+            "joao.albuquerque",
+            "tiago.nobrega",
+            "bruno.santos",
+            "DIEGO.ALAN"
+        ],
+        "NPS": 29,
+        "SLF": 2.3
+    },
+    {
+        "projectId": 207,
+        "projectManagers": [
+            "walter.guerra",
+            "leandro.silva"
+        ],
+        "teamMembers": [
+            "WALTER.GUERRA",
+            "paulo.menezes",
+            "fabiano.miranda",
+            "jose.nascimento",
+            "LEANDRO.SILVA",
+            "Anderson.pereira"
+        ],
+        "NPS": 75,
+        "SLF": 3.2
+    },
+    {
+        "projectId": 210,
+        "projectManagers": [
+            "walter.guerra"
+        ],
+        "teamMembers": [
+            "WALTER.GUERRA",
+            "paulo.menezes",
+            "fernando.vita",
+            "felipe.nascimento",
+            "pedro.medeiros"
+        ],
+        "NPS": 15,
+        "SLF": 3.2
+    },
+    {
+        "projectId": 212,
+        "projectManagers": [
+            "daniel.abella"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "danilo.coutinho",
+            "arthur.araujo",
+            "magno.dantas",
+            "jose.antonio"
+        ],
+        "NPS": 49,
+        "SLF": 4.8
+    },
+    {
+        "projectId": 213,
+        "projectManagers": [
+            "daniel.abella",
+            "diogo.miranda",
+            "filipe.ramos"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "DIOGO.MIRANDA",
+            "arthur.araujo",
+            "danilo.coutinho",
+            "felipe.belo",
+            "vinicius.silva",
+            "FILIPE.RAMOS"
+        ],
+        "NPS": 84,
+        "SLF": 2.6
+    },
+    {
+        "projectId": 214,
+        "projectManagers": [
+            "daniel.abella",
+            "francisco.favaro",
+            "ermeson.nobrega"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "danilo.coutinho",
+            "arthur.araujo",
+            "fabricio.melo",
+            "FRANCISCO.FAVARO",
+            "paulo.souto",
+            "UELIO.camara",
+            "ERMESON.NOBREGA"
+        ],
+        "NPS": 1,
+        "SLF": 4.2
+    },
+    {
+        "projectId": 215,
+        "projectManagers": [
+            "daniel.abella"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "danilo.coutinho",
+            "arthur.araujo",
+            "marcio.pereira",
+            "luciano.reul",
+            "gustavo.pires"
+        ],
+        "NPS": 71,
+        "SLF": 4.2
+    },
+    {
+        "projectId": 216,
+        "projectManagers": [
+            "daniel.abella"
+        ],
+        "teamMembers": [
+            "DANIEL.ABELLA",
+            "danilo.coutinho",
+            "arthur.araujo",
+            "jeremias.araujo",
+            "talles.gomes",
+            "vinicius.silva",
+            "bruno.dutra"
+        ],
+        "NPS": 13,
+        "SLF": 3.5
+    },
+    {
+        "projectId": 218,
+        "projectManagers": [
+            "vitruvio.alencar"
+        ],
+        "teamMembers": [
+            "VITRUVIO.ALENCAR",
+            "bruno.brandao",
+            "samir.feitosa",
+            "andre.gois",
+            "jackson.lino",
+            "wesley.herculano",
+            "arkjoaquitonyo",
+            "catarina.silva",
+            "ext-raul.simoes",
+            "vinicius.silva",
+            "romildo.freitas",
+            "magno.dantas"
+        ],
+        "NPS": 17,
+        "SLF": 3.5
+    },
+    {
+        "projectId": 232,
+        "projectManagers": [
+            "antonio.dantas"
+        ],
+        "teamMembers": [
+            "ANTONIO.DANTAS",
+            "fagner.martins",
+            "paulo.lira",
+            "Leonardo.Santos",
+            "eline.macedo",
+            "ulysses.gomes",
+            "nathane.silva",
+            "mendelssohn.sa",
+            "matheus.nicolas"
+        ],
+        "NPS": 22,
+        "SLF": 3
+    },
+    {
+        "projectId": 240,
+        "projectManagers": [
+            "arthur.navarro",
+            "andre.andrade",
+            "filipe.ramos",
+            "ermeson.nobrega",
+            "francisco.favaro"
+        ],
+        "teamMembers": [
+            "ARTHUR.NAVARRO",
+            "geraldo.lima",
+            "ANDRE.ANDRADE",
+            "FILIPE.RAMOS",
+            "bruno.dutra",
+            "ERMESON.NOBREGA",
+            "FRANCISCO.FAVARO",
+            "paulo.souto",
+            "UELIO.camara",
+            "isaac.santos",
+            "genilson.martins",
+            "vinicius.macedo"
+        ],
+        "NPS": 48,
+        "SLF": 2.6
+    },
+    {
+        "projectId": 242,
+        "projectManagers": [
+            "Marsell.Senko",
+            "diego.alan"
+        ],
+        "teamMembers": [
+            "MARSELL.SENKO",
+            "gilmar.batista",
+            "joao.albuquerque",
+            "luiz.escorel",
+            "tiago.nobrega",
+            "DIEGO.ALAN"
+        ],
+        "NPS": 1,
+        "SLF": 2.4
+    },
+    {
+        "projectId": 243,
+        "projectManagers": [
+            "igor.silva"
+        ],
+        "teamMembers": [
+            "IGOR.SILVA",
+            "jonatas.kinas",
+            "diego.santos",
+            "joao.matos",
+            "luan.balbino",
+            "Newton.fonseca",
+            "sydeney.araujo",
+            "yago.silva"
+        ],
+        "NPS": 55,
+        "SLF": 3.5
+    },
+    {
+        "projectId": 253,
+        "projectManagers": [
+            "Marsell.Senko",
+            "diego.alan"
+        ],
+        "teamMembers": [
+            "MARSELL.SENKO",
+            "gilmar.batista",
+            "mendelssohn.sa",
+            "luiz.escorel",
+            "DIEGO.ALAN",
+            "tiago.nobrega",
+            "joao.albuquerque"
+        ],
+        "NPS": 70,
+        "SLF": 2.9
+    },
+    {
+        "projectId": 256,
+        "projectManagers": [
+            "igor.silva",
+            "tony.cavalcanti"
+        ],
+        "teamMembers": [
+            "IGOR.SILVA",
+            "jonatas.kinas",
+            "Newton.fonseca",
+            "sydeney.araujo",
+            "luan.balbino",
+            "TONY.CAVALCANTI",
+            "diego.santos"
+        ],
+        "NPS": 85,
+        "SLF": 4.3
+    },
+    {
+        "projectId": 265,
+        "projectManagers": [
+            "diego.azevedo"
+        ],
+        "teamMembers": [
+            "DIEGO.AZEVEDO",
+            "catharine.bezerra",
+            "carlos.vieira",
+            "felipe.silva",
+            "gilmar.freitas",
+            "singrid.palmeira",
+            "tales.satiro",
+            "wendley.franca"
+        ],
+        "NPS": 37,
+        "SLF": 0.8
+    }
+]
