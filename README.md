@@ -89,6 +89,6 @@ If you use the code from this repository, please cite the following reference:
   version = {1.0},
   year = {2024},
 }
-
+```
 # License
 This project is licensed under the GNU General Public License v3.0. You can find the full text of the license in the LICENSE file in this repository.
