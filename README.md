@@ -1,6 +1,6 @@
 # TeamPlus: A Tool for Optimizing Software Development Team Formation using Genetic Algorithms
 
-This repository contains the codebase for the TeamPlus tool, developed as part of the research.
+This repository contains the codebase for the TeamPlus tool, developed as part of the research. Also contains supplementary materials (Threats to Validity and Illustrative example).
 
 ## Repository Structure
 
