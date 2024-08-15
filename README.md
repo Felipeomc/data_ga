@@ -46,9 +46,8 @@ Download Node.js
 ### 4. Install Dependencies
 After installing Node.js, navigate to the cloned project directory. In the VS Code terminal (or any terminal of your choice), go to the web-app folder:
 
-bash
+- [cd src/web-app](#cd src/web-app)
 
-cd src/web-app
 Now, install all the necessary dependencies for the application by running the command:
 
 bash
