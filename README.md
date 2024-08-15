@@ -33,9 +33,10 @@ git clone https://github.com/Felipeomc/data_ga/
 This will create a local copy of the repository on your system.
 
 ### 2. Install Visual Studio Code
-Ensure that Visual Studio Code (VS Code) is installed on your system. If you haven't installed it yet, you can download and install it from the official website:
 
-Download Visual Studio Code
+Ensure that **Visual Studio Code (VS Code)** is installed on your system. If you haven't installed it yet, you can download and install it from the official website:
+
+- [Download Visual Studio Code](https://code.visualstudio.com/)
 
 ###3. Install Node.js and NPM
 To run the application, you need to have Node.js and the npm package manager installed. Download and install the latest version of Node.js, which includes npm:
