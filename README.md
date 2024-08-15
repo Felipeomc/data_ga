@@ -50,9 +50,7 @@ After installing Node.js, navigate to the cloned project directory. In the VS Co
 
 Now, install all the necessary dependencies for the application by running the command:
 
-bash
-
-npm install
+> npm install
 This command will read the package.json file and install all the libraries and modules required for the application to function.
 
 ### 5. MongoDB Database Setup
@@ -66,27 +64,24 @@ In the web-app directory, create a .env file to store the environment variables 
 
 Example .env configuration:
 
-plaintext
-MONGODB_URI=mongodb://localhost:27017/YourDatabaseName
-PORT=3000
+> MONGODB_URI=mongodb://localhost:27017/YourDatabaseName
+> PORT=3000
 7. Run the Application
 Now you can start the application locally. In the VS Code terminal, still in the web-app folder, run:
 
-bash
-npm start
+> npm start
 This will start the backend server of the application.
 
 ### 8. Access the Tool in the Browser
 With the server running, open your preferred browser and access the following URL to view the tool:
 
-plaintext
-http://localhost:3000/projeto2
+> http://localhost:3000/projeto2
 In this interface, you will be able to explore all the functionalities of TeamPlus and navigate through the different pages of the application.
 
 # How to Cite This Repository
 If you use the code from this repository, please cite the following reference:
 
-bibtex
+
 @software{
   title = {TeamPlus: A Tool for Optimizing Software Development Team Formation using Genetic Algorithms},
   author = {Your Last Name, Your First Name},
