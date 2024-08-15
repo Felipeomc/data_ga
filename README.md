@@ -1,6 +1,20 @@
 TeamPlus: A Tool for Optimizing Software Development Team Formation using Genetic Algorithms
 This repository contains the codebase for the TeamPlus tool, developed as part of the research for the SoftwareX Journal.
 
+Repository Structure
+This repository is organized into the following folders:
+
+src/: Contains all the project source code, including:
+genetic_algorithms/: Subfolder with the genetic algorithms used in the comparative study.
+Datasets/: Subfolder containing the datasets used in the experiments.
+web-app/: Subfolder with the implementation of the web application.
+Supplementary Materials
+Due to page limitations, we are providing two PDF files as supplementary materials:
+
+Threats_to_Validity_Supplementary_Material.pdf: Contains an analysis of the threats to the validity of the study.
+Illustrative_example_Supplementary_Material.pdf: Provides an illustrative example of using the tool by software project managers.
+These materials can be accessed directly from the repository to complement the understanding of the tool and the results presented.
+
 Instructions to Run the TeamPlus Tool
 To ensure that the installation and execution of the TeamPlus tool occur smoothly, follow the detailed steps below:
 
@@ -64,20 +78,6 @@ Copiar código
 http://localhost:3000/projeto2
 In this interface, you will be able to explore all the functionalities of TeamPlus and navigate through the different pages of the application.
 
-Repository Structure
-This repository is organized into the following folders:
-
-src/: Contains all the project source code, including:
-genetic_algorithms/: Subfolder with the genetic algorithms used in the comparative study.
-Datasets/: Subfolder containing the datasets used in the experiments.
-web-app/: Subfolder with the implementation of the web application.
-Supplementary Materials
-Due to page limitations, we are providing two PDF files as supplementary materials:
-
-Threats_to_Validity_Supplementary_Material.pdf: Contains an analysis of the threats to the validity of the study.
-Illustrative_example_Supplementary_Material.pdf: Provides an illustrative example of using the tool by software project managers.
-These materials can be accessed directly from the repository to complement the understanding of the tool and the results presented.
-
 How to Cite This Repository
 If you use the code from this repository, please cite the following reference:
 
@@ -90,3 +90,6 @@ Copiar código
   version = {1.0},
   year = {2024},
 }
+
+License
+This project is licensed under the GNU General Public License v3.0. You can find the full text of the license in the LICENSE file in this repository.
