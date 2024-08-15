@@ -66,7 +66,7 @@ Example .env configuration:
 
 > MONGODB_URI=mongodb://localhost:27017/YourDatabaseName
 > PORT=3000
-7. Run the Application
+### 7. Run the Application
 Now you can start the application locally. In the VS Code terminal, still in the web-app folder, run:
 
 > npm start
