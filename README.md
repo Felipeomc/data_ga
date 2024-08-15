@@ -49,6 +49,7 @@ After installing Node.js, navigate to the cloned project directory. In the VS Co
 ```bash
 cd src/web-app 
 ```
+
 Now, install all the necessary dependencies for the application by running the command:
 
 ```bash
@@ -77,7 +78,9 @@ PORT=3000
 ### 7. Run the Application
 Now you can start the application locally. In the VS Code terminal, still in the web-app folder, run:
 
-> npm start
+```bash
+npm start
+```
 This will start the backend server of the application.
 
 ### 8. Access the Tool in the Browser
