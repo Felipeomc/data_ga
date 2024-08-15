@@ -28,7 +28,7 @@ To ensure that the installation and execution of the TeamPlus tool occur smoothl
 
 First, you need to clone the repository where the tool's source code is hosted. In the terminal, run the following command:
 
-```bash
+
 git clone https://github.com/Felipeomc/data_ga/
 This will create a local copy of the repository on your system.
 
