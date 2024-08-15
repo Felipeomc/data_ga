@@ -81,7 +81,7 @@ In this interface, you will be able to explore all the functionalities of TeamPl
 # How to Cite This Repository
 If you use the code from this repository, please cite the following reference:
 
-bibtex
+```bibtex
 @software{
   title = {TeamPlus: A Tool for Optimizing Software Development Team Formation using Genetic Algorithms},
   author = {Your Last Name, Your First Name},
