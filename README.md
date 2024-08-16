@@ -97,8 +97,8 @@ If you use the code from this repository, please cite the following reference:
 ```bibtex
 @software{
   title = {TeamPlus: A Tool for Optimizing Software Development Team Formation using Genetic Algorithms},
-  author = {Your Last Name, Your First Name},
-  url = {https://github.com/yourusername/TeamPlus},
+  author = {Cunha, Felipe; Perkusich, Mirko; Albuquerque, Danyllo; Gorgônio, Kyller; Almeida, Hyggo; Perkusich, Angelo},
+  url = {https://github.com/Felipeomc/data_ga/},
   version = {1.0},
   year = {2024},
 }
