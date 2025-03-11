@@ -57,6 +57,14 @@ npm install
 ```
 This command will read the package.json file and install all the libraries and modules required for the application to function.
 
+Before running the project, ensure you have:
+
+->Node.js installed
+
+->NPM or Yarn for package management
+
+->A .env file with database credentials
+
 ### 5. MongoDB Database Setup
 Before starting the server, ensure that MongoDB is installed and configured on your environment. If necessary, install MongoDB from the official website:
 
@@ -66,15 +74,13 @@ After installation, start the MongoDB service. Make sure the necessary database 
 ### 6. .env File Configuration
 In the web-app directory, create a .env file to store the environment variables needed for the application setup, including the MongoDB connection URL and other configurations specific to the project management system API.
 
-Example .env configuration:
+The application uses MongoDB Atlas. Ensure you set up a .env file at the root of the project with the correct credentials:
 
+DB_USER=your_username
+DB_PASSWORD=your_password
 
-```bash
-MONGODB_URI=mongodb://localhost:27017/YourDatabaseName
-```
-```bash
-PORT=3000
-```
+The database connection is defined in db.js, where the data models are structured using Mongoose.
+
 ### 7. Run the Application
 Now you can start the application locally. In the VS Code terminal, still in the web-app folder, run:
 
@@ -89,7 +95,30 @@ With the server running, open your preferred browser and access the following UR
 ```bash
 http://localhost:3000/projeto2
 ```
+
+### 9. Project Structure (**web-app/** Subfolder)
+
+The web-ap directory contains the implementation of the web application for team formation based on a genetic algorithm. The tool connects to MongoDB Atlas, using environment variables for authentication.
+
 In this interface, you will be able to explore all the functionalities of TeamPlus and navigate through the different pages of the application.
+
+The main files required to run the application are:
+
+package.json → Manages dependencies and scripts.
+
+db.js → Connects to MongoDB Atlas and defines data models.
+
+routes/ → Defines API routes.
+
+views/ → Contains the application's views.
+
+public/ → Static files (CSS, JS, images).
+
+.env → Environment variables file (not included in the repository for security reasons).
+
+### 10. Auxiliary Data (**web-app/** Subfolder)
+
+Some JSON files store data extracted from online databases for displaying profiles and running tests, but they are not essential for running the application.
 
 # How to Cite This Repository
 If you use the code from this repository, please cite the following reference:
@@ -100,7 +129,7 @@ If you use the code from this repository, please cite the following reference:
   author = {Cunha, Felipe; Perkusich, Mirko; Albuquerque, Danyllo; Gorgônio, Kyller; Almeida, Hyggo; Perkusich, Angelo},
   url = {https://github.com/Felipeomc/data_ga/},
   version = {1.0},
-  year = {2024},
+  year = {2025},
 }
 ```
 # License
